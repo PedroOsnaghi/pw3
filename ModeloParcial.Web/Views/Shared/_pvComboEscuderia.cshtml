@@ -1,0 +1,16 @@
+﻿@using ModeloParcial.Datos.EF
+
+
+
+<select class="form-select" id="IdEscuderia" name="IdEscuderia">
+    <option value="0" selected="@((int)ViewBag.EscuderiaSelectedId == 0 ? "selected" : null)">Seleccione una escuderia</option>
+    @foreach (Escuderium escuderia in ViewBag.Escuderias)
+    {
+        <option value="@escuderia.IdEscuderia" selected="@(escuderia.IdEscuderia == (int)ViewBag.EscuderiaSelectedId ? "selected" : null)">
+            @escuderia.NombreEscuderia
+        </option>
+    }
+</select>
+
+
+

@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FACULTAD\\PW3\\modelo2doParcial\\ModeloParcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60C9D933-A16A-4EAD-9A71-2DB24496E2D5}|ModeloParcial.Datos\\ModeloParcial.Datos.csproj|d:\\facultad\\pw3\\modelo2doparcial\\modeloparcial\\modeloparcial.datos\\ef\\piloto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C9D933-A16A-4EAD-9A71-2DB24496E2D5}|ModeloParcial.Datos\\ModeloParcial.Datos.csproj|solutionrelative:modeloparcial.datos\\ef\\piloto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E2512A-DA13-4E86-81F5-D5D61CC15588}|ModeloParcial.Web\\ModeloParcial.Web.csproj|d:\\facultad\\pw3\\modelo2doparcial\\modeloparcial\\modeloparcial.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E2512A-DA13-4E86-81F5-D5D61CC15588}|ModeloParcial.Web\\ModeloParcial.Web.csproj|solutionrelative:modeloparcial.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A96115-9221-4549-8A74-9687FAD3C1F2}|ModeloParcial.Logica\\ModeloParcial.Logica.csproj|d:\\facultad\\pw3\\modelo2doparcial\\modeloparcial\\modeloparcial.logica\\pilotoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0A96115-9221-4549-8A74-9687FAD3C1F2}|ModeloParcial.Logica\\ModeloParcial.Logica.csproj|solutionrelative:modeloparcial.logica\\pilotoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E2512A-DA13-4E86-81F5-D5D61CC15588}|ModeloParcial.Web\\ModeloParcial.Web.csproj|d:\\facultad\\pw3\\modelo2doparcial\\modeloparcial\\modeloparcial.web\\controllers\\pilotocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E2512A-DA13-4E86-81F5-D5D61CC15588}|ModeloParcial.Web\\ModeloParcial.Web.csproj|solutionrelative:modeloparcial.web\\controllers\\pilotocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E2512A-DA13-4E86-81F5-D5D61CC15588}|ModeloParcial.Web\\ModeloParcial.Web.csproj|d:\\facultad\\pw3\\modelo2doparcial\\modeloparcial\\modeloparcial.web\\models\\pilotoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E2512A-DA13-4E86-81F5-D5D61CC15588}|ModeloParcial.Web\\ModeloParcial.Web.csproj|solutionrelative:modeloparcial.web\\models\\pilotoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E2512A-DA13-4E86-81F5-D5D61CC15588}|ModeloParcial.Web\\ModeloParcial.Web.csproj|d:\\facultad\\pw3\\modelo2doparcial\\modeloparcial\\modeloparcial.web\\views\\shared\\_pvcomboescuderia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65E2512A-DA13-4E86-81F5-D5D61CC15588}|ModeloParcial.Web\\ModeloParcial.Web.csproj|solutionrelative:modeloparcial.web\\views\\shared\\_pvcomboescuderia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E2512A-DA13-4E86-81F5-D5D61CC15588}|ModeloParcial.Web\\ModeloParcial.Web.csproj|d:\\facultad\\pw3\\modelo2doparcial\\modeloparcial\\modeloparcial.web\\views\\piloto\\nuevopiloto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65E2512A-DA13-4E86-81F5-D5D61CC15588}|ModeloParcial.Web\\ModeloParcial.Web.csproj|solutionrelative:modeloparcial.web\\views\\piloto\\nuevopiloto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FACULTAD\\PW3\\modelo2doParcial\\ModeloParcial\\ModeloParcial.Web\\Program.cs",
+              "RelativeDocumentMoniker": "ModeloParcial.Web\\Program.cs",
+              "ToolTip": "D:\\FACULTAD\\PW3\\modelo2doParcial\\ModeloParcial\\ModeloParcial.Web\\Program.cs",
+              "RelativeToolTip": "ModeloParcial.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:21:11.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Piloto.cs",
+              "DocumentMoniker": "D:\\FACULTAD\\PW3\\modelo2doParcial\\ModeloParcial\\ModeloParcial.Datos\\EF\\Piloto.cs",
+              "RelativeDocumentMoniker": "ModeloParcial.Datos\\EF\\Piloto.cs",
+              "ToolTip": "D:\\FACULTAD\\PW3\\modelo2doParcial\\ModeloParcial\\ModeloParcial.Datos\\EF\\Piloto.cs",
+              "RelativeToolTip": "ModeloParcial.Datos\\EF\\Piloto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:11:49.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PilotoService.cs",
+              "DocumentMoniker": "D:\\FACULTAD\\PW3\\modelo2doParcial\\ModeloParcial\\ModeloParcial.Logica\\PilotoService.cs",
+              "RelativeDocumentMoniker": "ModeloParcial.Logica\\PilotoService.cs",
+              "ToolTip": "D:\\FACULTAD\\PW3\\modelo2doParcial\\ModeloParcial\\ModeloParcial.Logica\\PilotoService.cs",
+              "RelativeToolTip": "ModeloParcial.Logica\\PilotoService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwC0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:12:48.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PilotoViewModel.cs",
+              "DocumentMoniker": "D:\\FACULTAD\\PW3\\modelo2doParcial\\ModeloParcial\\ModeloParcial.Web\\Models\\PilotoViewModel.cs",
+              "RelativeDocumentMoniker": "ModeloParcial.Web\\Models\\PilotoViewModel.cs",
+              "ToolTip": "D:\\FACULTAD\\PW3\\modelo2doParcial\\ModeloParcial\\ModeloParcial.Web\\Models\\PilotoViewModel.cs",
+              "RelativeToolTip": "ModeloParcial.Web\\Models\\PilotoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:56:02.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PilotoController.cs",
+              "DocumentMoniker": "D:\\FACULTAD\\PW3\\modelo2doParcial\\ModeloParcial\\ModeloParcial.Web\\Controllers\\PilotoController.cs",
+              "RelativeDocumentMoniker": "ModeloParcial.Web\\Controllers\\PilotoController.cs",
+              "ToolTip": "D:\\FACULTAD\\PW3\\modelo2doParcial\\ModeloParcial\\ModeloParcial.Web\\Controllers\\PilotoController.cs",
+              "RelativeToolTip": "ModeloParcial.Web\\Controllers\\PilotoController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:49:19.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_pvComboEscuderia.cshtml",
+              "DocumentMoniker": "D:\\FACULTAD\\PW3\\modelo2doParcial\\ModeloParcial\\ModeloParcial.Web\\Views\\Shared\\_pvComboEscuderia.cshtml",
+              "RelativeDocumentMoniker": "ModeloParcial.Web\\Views\\Shared\\_pvComboEscuderia.cshtml",
+              "ToolTip": "D:\\FACULTAD\\PW3\\modelo2doParcial\\ModeloParcial\\ModeloParcial.Web\\Views\\Shared\\_pvComboEscuderia.cshtml",
+              "RelativeToolTip": "ModeloParcial.Web\\Views\\Shared\\_pvComboEscuderia.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T14:46:19.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NuevoPiloto.cshtml",
+              "DocumentMoniker": "D:\\FACULTAD\\PW3\\modelo2doParcial\\ModeloParcial\\ModeloParcial.Web\\Views\\Piloto\\NuevoPiloto.cshtml",
+              "RelativeDocumentMoniker": "ModeloParcial.Web\\Views\\Piloto\\NuevoPiloto.cshtml",
+              "ToolTip": "D:\\FACULTAD\\PW3\\modelo2doParcial\\ModeloParcial\\ModeloParcial.Web\\Views\\Piloto\\NuevoPiloto.cshtml",
+              "RelativeToolTip": "ModeloParcial.Web\\Views\\Piloto\\NuevoPiloto.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T14:45:29.417Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

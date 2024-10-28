@@ -1,0 +1,15 @@
+D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Logica\bin\Debug\net6.0\ModeloParcial.Logica.deps.json
+D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Logica\bin\Debug\net6.0\ModeloParcial.Logica.dll
+D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Logica\bin\Debug\net6.0\ModeloParcial.Logica.pdb
+D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Logica\bin\Debug\net6.0\ModeloParcial.Datos.dll
+D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Logica\bin\Debug\net6.0\ModeloParcial.Datos.pdb
+D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Logica\obj\Debug\net6.0\ModeloParcial.Logica.csproj.AssemblyReference.cache
+D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Logica\obj\Debug\net6.0\ModeloParcial.Logica.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Logica\obj\Debug\net6.0\ModeloParcial.Logica.AssemblyInfoInputs.cache
+D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Logica\obj\Debug\net6.0\ModeloParcial.Logica.AssemblyInfo.cs
+D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Logica\obj\Debug\net6.0\ModeloParcial.Logica.csproj.CoreCompileInputs.cache
+D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Logica\obj\Debug\net6.0\ModeloPa.2E9B1A86.Up2Date
+D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Logica\obj\Debug\net6.0\ModeloParcial.Logica.dll
+D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Logica\obj\Debug\net6.0\refint\ModeloParcial.Logica.dll
+D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Logica\obj\Debug\net6.0\ModeloParcial.Logica.pdb
+D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Logica\obj\Debug\net6.0\ref\ModeloParcial.Logica.dll

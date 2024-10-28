@@ -1,0 +1,14 @@
+D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Datos\bin\Debug\net6.0\ModeloParcial.Datos.deps.json
+D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Datos\bin\Debug\net6.0\ModeloParcial.Datos.runtimeconfig.json
+D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Datos\bin\Debug\net6.0\ModeloParcial.Datos.dll
+D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Datos\bin\Debug\net6.0\ModeloParcial.Datos.pdb
+D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Datos\obj\Debug\net6.0\ModeloParcial.Datos.csproj.AssemblyReference.cache
+D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Datos\obj\Debug\net6.0\ModeloParcial.Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Datos\obj\Debug\net6.0\ModeloParcial.Datos.AssemblyInfoInputs.cache
+D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Datos\obj\Debug\net6.0\ModeloParcial.Datos.AssemblyInfo.cs
+D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Datos\obj\Debug\net6.0\ModeloParcial.Datos.csproj.CoreCompileInputs.cache
+D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Datos\obj\Debug\net6.0\ModeloParcial.Datos.dll
+D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Datos\obj\Debug\net6.0\refint\ModeloParcial.Datos.dll
+D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Datos\obj\Debug\net6.0\ModeloParcial.Datos.pdb
+D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Datos\obj\Debug\net6.0\ModeloParcial.Datos.genruntimeconfig.cache
+D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Datos\obj\Debug\net6.0\ref\ModeloParcial.Datos.dll

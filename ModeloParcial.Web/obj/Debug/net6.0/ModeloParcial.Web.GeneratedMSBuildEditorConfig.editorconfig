@@ -1,0 +1,51 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ModeloParcial.Web
+build_property.RootNamespace = ModeloParcial.Web
+build_property.ProjectDir = D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\FACULTAD\PW3\modelo2doParcial\ModeloParcial\ModeloParcial.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/FACULTAD/PW3/modelo2doParcial/ModeloParcial/ModeloParcial.Web/Views/Piloto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlsb3RvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FACULTAD/PW3/modelo2doParcial/ModeloParcial/ModeloParcial.Web/Views/Piloto/ListarPilotos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlsb3RvXExpc3RhclBpbG90b3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FACULTAD/PW3/modelo2doParcial/ModeloParcial/ModeloParcial.Web/Views/Piloto/NuevoPiloto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlsb3RvXE51ZXZvUGlsb3RvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FACULTAD/PW3/modelo2doParcial/ModeloParcial/ModeloParcial.Web/Views/Shared/_pvComboEscuderia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9wdkNvbWJvRXNjdWRlcmlhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FACULTAD/PW3/modelo2doParcial/ModeloParcial/ModeloParcial.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FACULTAD/PW3/modelo2doParcial/ModeloParcial/ModeloParcial.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FACULTAD/PW3/modelo2doParcial/ModeloParcial/ModeloParcial.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FACULTAD/PW3/modelo2doParcial/ModeloParcial/ModeloParcial.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-v009dqnxo8
